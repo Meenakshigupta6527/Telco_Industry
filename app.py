@@ -17,7 +17,7 @@ if status is "Top 10 handsets used by the customers":
     st.write("frequency of different handset types: The most common handset type is Huawei B5285-23A, followed by Apple iPhone 6S (A1688) and Apple iPhone 6 (A1586). The least common handset type is Apple iPhone X (A1901)")
 
 elif status is 'Top 3 handset manufacturers':
-    st.image("C:/Users/User/Telecommunication_Industry/venv/my_streamlit_app/telco images/top 3 manufacture.png")
+    st.image("top 3 manufacture.png")
     st.write("Focus on Apple Users: Since Apple leads in terms of handset users, ensure compatibility with Apple devices, iOS updates, and specific support for Apple services (iCloud, FaceTime, etc.")
     st.write("Strong Support for Samsung: Samsung devices are also prominent, meaning ensuring Android compatibility, especially with Samsung's custom features and software versions, is crucial.")
     st.write("Consider Huawei Users: Given Huawei’s unique software ecosystem (especially post-Google services restrictions), it’s important to provide dedicated support and updates for these devices.")
