@@ -1,4 +1,4 @@
-
+!pip install streamlit-navigation-bar
 import streamlit as st
 import pandas as pd
 from streamlit_navigation_bar import st_navbar
