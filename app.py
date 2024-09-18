@@ -8,7 +8,7 @@ st.write(page)
 
 image = Image.open('wireless-tele.jpg')
 st.sidebar.title("User Analytics in the Telecommunication Industry")
-st.sidebar.write("In this project we have to provide a report to analyze opportunities for growth and make a recommendation on whether TellCo is worth buying or selling. we will do this by analyzing a telecommunication dataset that contains useful information about the customers & their activities on the network. We will deliver insights you managed to extract to employer through an easy-to-use web-based dashboard and a written report.")
+st.sidebar.write("aaaaaaaaaaaIn this project we have to provide a report to analyze opportunities for growth and make a recommendation on whether TellCo is worth buying or selling. we will do this by analyzing a telecommunication dataset that contains useful information about the customers & their activities on the network. We will deliver insights you managed to extract to employer through an easy-to-use web-based dashboard and a written report.")
 
 container = st.container()
 container.title("Task 1 - User Overview analysis")
