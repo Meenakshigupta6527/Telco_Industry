@@ -14,7 +14,7 @@ status = st.radio(
 )
 
 if status is "Top 10 handsets used by the customers":
-    st.image("C:/Users/User/Telecommunication_Industry/venv/my_streamlit_app/telco images/top 10 handset.png")
+    st.image("top 10 handset.png")
     st.write("frequency of different handset types: The most common handset type is Huawei B5285-23A, followed by Apple iPhone 6S (A1688) and Apple iPhone 6 (A1586). The least common handset type is Apple iPhone X (A1901)")
 
 elif status is 'Top 3 handset manufacturers':
